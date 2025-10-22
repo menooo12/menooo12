@@ -10,7 +10,7 @@ Currently building skills in Linux, web security, and offensive security tools t
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+## ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)  
@@ -22,9 +22,9 @@ Currently building skills in Linux, web security, and offensive security tools t
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=flat)  
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?logo=burpsuite&logoColor=white&style=flat)  
 ![Nmap](https://img.shields.io/badge/-Nmap-004B87?logo=nmap&logoColor=white&style=flat)  
-![Metasploit](https://img.shields.io/badge/-Metasploit-3AABE8?logo=metasploit&logoColor=white&style=flat)  
+## ![Metasploit](https://img.shields.io/badge/-Metasploit-3AABE8?logo=metasploit&logoColor=white&style=flat)  
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)  
-![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-000000?style=flat)  
+## ![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-000000?style=flat)  
 
 ---
 
